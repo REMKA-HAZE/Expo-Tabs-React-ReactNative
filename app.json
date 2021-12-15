@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "3Tabs",
+    "slug": "snack-51bd3a72-1c0c-48b9-8066-3d527a8e6374",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "proyecto expo en donde consta de 3 tabs en la primera colocamos el counter y en las restantes es una lista de compras"
+  }
+}
